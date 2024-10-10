@@ -27,7 +27,7 @@ This project implements a K-Nearest Neighbors (KNN) classifier to recognize acto
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/siddiquiali94/knn.git
+    git clone https://github.com/Muhammad-Ali-Siddiqui/KNN.git
     ```
 
 2. **Install the necessary libraries**:
