@@ -27,7 +27,7 @@ This project implements a K-Nearest Neighbors (KNN) classifier to recognize acto
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/siddiquiali94/knn.git
     ```
 
 2. **Install the necessary libraries**:
@@ -39,7 +39,7 @@ This project implements a K-Nearest Neighbors (KNN) classifier to recognize acto
 3. **Run the project**:
     The project script will guide you through uploading your image and performing KNN classification:
     ```bash
-    python knn_classifier.py
+    knn.py
     ```
 
 ## Files
@@ -59,6 +59,3 @@ Once you upload an image, the KNN classifier will output the nearest neighbor's 
 - Addition of other distance metrics like Manhattan distance.
 - Integration of a graphical interface for image upload and display.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
