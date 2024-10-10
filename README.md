@@ -39,13 +39,13 @@ This project implements a K-Nearest Neighbors (KNN) classifier to recognize acto
 3. **Run the project**:
     The project script will guide you through uploading your image and performing KNN classification:
     ```bash
-    knn.py
+    KNN.ipynb
     ```
 
 ## Files
 
-- `knn_classifier.py`: The main Python script implementing the KNN algorithm and processing the images.
-- `data/`: Directory containing the raw images of actors.
+- `KNN.ipynb`: The main Python script implementing the KNN algorithm and processing the images.
+- `data.mat`: Directory containing the raw images of actors.
 - `README.md`: Documentation for the project.
 - `requirements.txt`: List of dependencies for the project.
 
