@@ -1,6 +1,6 @@
 # K-Nearest Neighbors (KNN) Project
 
-This project implements a K-Nearest Neighbors (KNN) classifier to recognize actors based on a dataset of images. The classifier calculates the Euclidean distance between an uploaded image and a dataset of actor images to find the closest matches. The project supports 1NN, 3NN, and 5NN using majority voting for classification.
+This project implements a K-Nearest Neighbors (KNN) classifier to classify an image based on a dataset of images. The classifier calculates the Euclidean distance between an uploaded image and a dataset of actor images to find the closest matches. The project supports 1NN, 3NN, and 5NN using majority voting for classification.
 
 ## Dataset
 
